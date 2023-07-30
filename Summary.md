@@ -31,4 +31,6 @@ add an item to the menu.
 • After calculating the total amount, then the program will generate the invoice receipt.
 
 FLOW CHART:
+
+
 ![image](https://github.com/kushall0603/billingsystem/assets/117758477/077ba50e-bde6-4ae4-af03-e27e4a254351)
